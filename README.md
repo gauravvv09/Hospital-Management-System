@@ -67,15 +67,3 @@ This project is a Hospital Database Management System developed as a mini-projec
 - Integration with third-party APIs for extended functionality.
 - Mobile-responsive design for better accessibility.
 
-## Contributors
-
-- Gaurav Patil
-- Yuvraj Singh
-- Aryan Nangre
-- Chirag Ranpise
-
-**Under the Guidance of Prof. Avinash R. Sonule**
-
----
-
-This project was submitted as part of the requirements for the Bachelor of Engineering in Computer Engineering at A.C. Patil College of Engineering.
