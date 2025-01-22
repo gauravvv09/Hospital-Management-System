@@ -67,3 +67,6 @@ This project is a Hospital Database Management System developed as a mini-projec
 - Integration with third-party APIs for extended functionality.
 - Mobile-responsive design for better accessibility.
 
+- ![a](https://github.com/user-attachments/assets/e4e886e6-1fe6-442a-af22-ccf0cf1552b1)
+
+
